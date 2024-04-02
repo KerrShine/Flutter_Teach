@@ -1,0 +1,6 @@
+{
+  "helloWorld": "こんにちは世界!",
+  "@helloWorld": {
+    "description": "これが世界です"
+  }
+}
