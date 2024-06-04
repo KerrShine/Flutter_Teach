@@ -1,9 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:get_it/get_it.dart';
-import 'package:mvvm_pro/Repository/IAPIRepository.dart';
-import 'package:mvvm_pro/main.dart';
-import 'package:mvvm_pro/Model/login_data_model.dart';
-import 'package:mvvm_pro/Repository/APIRepo.dart';
 import 'package:mvvm_pro/ViewModel/api_view_model.dart';
 import 'package:provider/provider.dart';
 
