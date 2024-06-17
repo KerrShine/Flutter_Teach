@@ -54,7 +54,7 @@ class _MyAppState extends State<MyApp> {
         supportedLocales: AppLocalizations.supportedLocales,
         debugShowCheckedModeBanner: false,
         // locale: const Locale('en'),
-        // locale: const Locale('ja'), // 改變語系,
+        locale: const Locale('ja'), // 改變語系,
         // locale: const Locale('ja'), // 改變語系,
         theme: ThemeData(
           elevatedButtonTheme: ElevatedButtonThemeData(
