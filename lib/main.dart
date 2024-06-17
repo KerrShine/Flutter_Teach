@@ -53,6 +53,7 @@ class _MyAppState extends State<MyApp> {
         localizationsDelegates: AppLocalizations.localizationsDelegates,
         supportedLocales: AppLocalizations.supportedLocales,
         debugShowCheckedModeBanner: false,
+        locale: const Locale('en'),
         // locale: const Locale('ja'), // 改變語系,
         // locale: const Locale('ja'), // 改變語系,
         theme: ThemeData(
