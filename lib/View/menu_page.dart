@@ -32,7 +32,7 @@ class _MenuPageState extends State<MenuPage> {
               },
               child: Text(
                 RouterName.data[index],
-                style: TextStyle(fontSize: 30),
+                style: TextStyle(fontSize: 25),
               ),
             )),
           );
